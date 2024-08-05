@@ -16,3 +16,7 @@ www.digikala.com##.mb-4.rounded.border-complete-200.h-full.lg\:px-2.px-4.py-3.gr
 ! Aug 5, 2024 https://roadmap.sh
 ! bottom right pop-up
 roadmap.sh##.sm\:max-w-\[350px\].sm\:right-\[15px\].sm\:left-auto.sm\:bottom-\[15px\].outline-transparent.outline-0.shadow-lg.bg-white.flex.z-50.right-0.left-0.bottom-0.fixed
+
+! Aug 5, 2024 https://vgdl.ir
+! end of the post banners
+vgdl.ir###ads__end_of_the_post
