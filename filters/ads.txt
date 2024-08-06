@@ -1,0 +1,5 @@
+! Title: parsapoorsh's ads filterlists
+! Homepage: https://github.com/parsapoorsh/adblock-filter-list
+! Licence: https://github.com/parsapoorsh/adblock-filter-list/blob/main/LICENSE
+! Expires: 1 day
+

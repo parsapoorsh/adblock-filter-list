@@ -1,3 +1,8 @@
+! Title: parsapoorsh's annoyances filterlists
+! Homepage: https://github.com/parsapoorsh/adblock-filter-list
+! Licence: https://github.com/parsapoorsh/adblock-filter-list/blob/main/LICENSE
+! Expires: 1 day
+
 ! Aug 2, 2024 https://www.digikala.com
 
 ||dkstatics-public.digikala.com/digikala-adservice-banners/*$image
