@@ -18,6 +18,10 @@ www.digikala.com##.styles_Layout__CTAButton__WsxR_.bottom-8.z-1.inline-block.fix
 ! top right promotional
 www.digikala.com##.mb-4.rounded.border-complete-200.h-full.lg\:px-2.px-4.py-3.grow.overflow-hidden.bg-neutral-000.relative.cursor-pointer.block
 
+! Aug 9, 2024
+! top promotional
+www.digikala.com##.lg\:mx-0.lg\:mb-5.mb-0.py-2.lg\:py-0.lg\:border-complete-200.relative.lg\:rounded-large
+
 ! Aug 5, 2024 https://roadmap.sh
 ! bottom right pop-up
 roadmap.sh##.sm\:max-w-\[350px\].sm\:right-\[15px\].sm\:left-auto.sm\:bottom-\[15px\].outline-transparent.outline-0.shadow-lg.bg-white.flex.z-50.right-0.left-0.bottom-0.fixed
