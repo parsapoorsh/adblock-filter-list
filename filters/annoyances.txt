@@ -29,3 +29,7 @@ roadmap.sh##.sm\:max-w-\[350px\].sm\:right-\[15px\].sm\:left-auto.sm\:bottom-\[1
 ! Aug 5, 2024 https://vgdl.ir
 ! end of the post banners
 vgdl.ir###ads__end_of_the_post
+
+! Aug 10, 2024 https://www.youtube.com
+! Breaking News
+www.youtube.com##ytd-rich-section-renderer.ytd-rich-grid-renderer.style-scope:nth-of-type(1)
