@@ -33,3 +33,7 @@ vgdl.ir###ads__end_of_the_post
 ! Aug 10, 2024 https://www.youtube.com
 ! Breaking News
 www.youtube.com##ytd-rich-section-renderer.ytd-rich-grid-renderer.style-scope:nth-of-type(1)
+
+! Aug 16, 2024 https://randomnerdtutorials.com
+randomnerdtutorials.com##.elementor-popup-modal.dialog-type-lightbox.dialog-type-buttons.dialog-lightbox-widget.dialog-widget
+randomnerdtutorials.com##.elementor-widget-template.elementor-widget.elementor-element-b6775cb.elementor-element
