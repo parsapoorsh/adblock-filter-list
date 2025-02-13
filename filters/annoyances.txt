@@ -14,6 +14,8 @@ www.digikala.com##div.px-5.\32 xl\:px-0.lg\:px-4.mx-auto.container-2xl-w > .flex
 www.digikala.com##div.\32 xl\:px-0.lg\:px-4.mx-auto.container-2xl-w:nth-of-type(10)
 www.digikala.com##div.\32 xl\:px-0.lg\:px-4.mx-auto.container-2xl-w:nth-of-type(18)
 www.digikala.com##.styles_Layout__CTAButton__WsxR_.bottom-8.z-1.inline-block.fixed.p-3.styles_FabButton--primary__fBOaQ.styles_FabButton--medium__5dCWs.styles_FabButton__5YQgj.text-button-1.justify-between.items-center.flex
+www.digikala.com##.lg\:mx-0.mx-5.xl\:gap-4.lg\:gap-3.gap-4
+
 
 ! top right promotional
 www.digikala.com##.mb-4.rounded.border-complete-200.h-full.lg\:px-2.px-4.py-3.grow.overflow-hidden.bg-neutral-000.relative.cursor-pointer.block
