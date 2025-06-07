@@ -39,3 +39,6 @@ www.youtube.com##ytd-rich-section-renderer.ytd-rich-grid-renderer.style-scope:nt
 ! Aug 16, 2024 https://randomnerdtutorials.com
 randomnerdtutorials.com##.elementor-popup-modal.dialog-type-lightbox.dialog-type-buttons.dialog-lightbox-widget.dialog-widget
 randomnerdtutorials.com##.elementor-widget-template.elementor-widget.elementor-element-b6775cb.elementor-element
+
+! Jun 8, 2025 https://temp-mail.org
+temp-mail.org##.section-populer-article
